@@ -1,0 +1,72 @@
+[
+	{
+		"keyword":["GET STARTED"],
+		"intent":"get_started"
+	},
+
+	{
+		"keyword":["HELLO","HEY","HI","YO"],
+		"intent":"greeting"
+	},
+
+	{
+		"keyword":["EMPLOYEE","I AM AN EMPLOYEE","I AM EMPLOYEE","I AM A CLOVER EMPLOYEE","I AM CLOVER EMPLOYEE","I'M AN EMPLOYEE"],
+		"intent":"employee"
+	},
+
+	{
+		"keyword":["NON EMPLOYEE","I AM NOT AN EMPLOYEE","NOT EMPLOYEE","I AM NOT A CLOVER EMPLOYEE","I AM NOT CLOVER EMPLOYEE","I'M NOT AN EMPLOYEE"],
+		"intent":"non_employee"
+	},
+
+	{
+		"keyword":["RESTART","START OVER"],
+		"intent":"restart"
+	},
+
+	{
+		"keyword":["BYE","GOODBYE","THANK YOU","SEE YOU","THANKS"],
+		"intent":"goodbye"
+	},
+
+	{
+		"keyword":["CALL CUSTOMER SERVICE","CALL CUSTOMER SERVICE","CALL CUSTOMER SUPPORT","CUSTOMER SERVICE REPRESENTATIVE","CUSTOMER SERVICE"],
+		"intent":"customer_service"
+	},
+
+	{
+		"keyword":["FINANCE","PAYROLL","FINANCE PAYROLL"],
+		"intent":"finance"
+	},
+
+	{
+		"keyword":["PEOPLE","HR","PEOPLE/HR"],
+		"intent":"people"
+	},
+
+	{
+		"keyword":["JOB SEEKER","STUDENT","I WANT A JOB","I WANT AN INTERNSHIP","PROSPECTIVE EMPLOYEE"],
+		"intent":"job"
+	},
+
+	{
+		"keyword":["CUSTOMER","VENDOR","I AM A VENDOR","I AM A CUSTOMER"],
+		"intent":"customer"
+	},
+
+	{
+		"keyword":["YUP","YES","YEAH","OKAY","SURE","YA"],
+		"intent":"yes"
+	},
+
+	{
+		"keyword":["NO","NO THANKS","NOPE","NOT NEEDED"],
+		"intent":"no"
+	},
+
+	{
+		"keyword":["HELP","WHAT CAN YOU DO","HOW CAN YOU HELP ME","HELP ME PLEASE","I NEED HELP"],
+		"intent":"help"
+	}
+
+]

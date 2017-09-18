@@ -1,0 +1,94 @@
+Wednesday, August 23rd, 2017, 2:06:29 PM User: Employee
+Wednesday, August 23rd, 2017, 2:06:35 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, August 23rd, 2017, 2:06:39 PM User: Employee
+Wednesday, August 23rd, 2017, 2:06:40 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Wednesday, August 23rd, 2017, 2:06:44 PM User: People
+Wednesday, August 23rd, 2017, 2:06:46 PM CloBot: May I please know your query?
+Wednesday, August 23rd, 2017, 2:06:58 PM User: sure
+Wednesday, August 23rd, 2017, 2:07:02 PM CloBot: Sorry Siddharth I do not have an answer to this question yet. We will get back to you shortly
+Wednesday, August 23rd, 2017, 2:07:03 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Wednesday, August 23rd, 2017, 2:07:05 PM User: Yes
+Wednesday, August 23rd, 2017, 2:07:06 PM CloBot: May I please know your query?
+Wednesday, August 23rd, 2017, 2:08:20 PM User: Do I have to wear shoes?
+Wednesday, August 23rd, 2017, 2:08:23 PM CloBot: Siddharth, closed shoes are required to be worn to work
+Wednesday, August 23rd, 2017, 2:08:24 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Wednesday, August 23rd, 2017, 2:08:27 PM User: Yes
+Wednesday, August 23rd, 2017, 2:08:28 PM CloBot: May I please know your query?
+Thursday, August 24th, 2017, 2:43:20 PM User: Hello
+Thursday, August 24th, 2017, 2:43:25 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, August 24th, 2017, 2:43:29 PM User: Non Employee
+Thursday, August 24th, 2017, 2:43:30 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, August 24th, 2017, 2:43:38 PM User: Customer
+Thursday, August 24th, 2017, 2:43:40 PM CloBot: Please let me know your query
+Thursday, August 24th, 2017, 2:43:44 PM User: xyz
+Thursday, August 24th, 2017, 2:43:45 PM CloBot: Please enter your email address
+Thursday, August 24th, 2017, 2:44:12 PM User: sid.koth1996@gmail.com
+Thursday, August 24th, 2017, 2:44:12 PM CloBot: Thank you, our customer service professional will address your query as soon as possible
+Thursday, August 24th, 2017, 2:44:13 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Thursday, August 24th, 2017, 2:44:22 PM User: No
+Thursday, August 24th, 2017, 2:44:24 PM CloBot: Goodbye, I hope I could help you!
+Thursday, August 24th, 2017, 2:48:47 PM User: Hello
+Thursday, August 24th, 2017, 2:48:52 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, August 24th, 2017, 2:55:01 PM User: Employee
+Thursday, August 24th, 2017, 2:55:02 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Thursday, August 24th, 2017, 2:55:10 PM User: People
+Thursday, August 24th, 2017, 2:55:11 PM CloBot: What is your query?
+Thursday, August 24th, 2017, 2:55:27 PM User: I am straight out of college, do you have a job for me?
+Thursday, August 24th, 2017, 2:55:33 PM CloBot: Sorry Siddharth, our servers are not functioning now, please ask your question a little later
+Thursday, August 24th, 2017, 2:55:34 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Thursday, August 24th, 2017, 2:55:43 PM User: Yes
+Thursday, August 24th, 2017, 2:55:44 PM CloBot: What is your query?
+Thursday, August 24th, 2017, 2:55:52 PM User: I am straight out of college, do you have a job for me?
+Thursday, August 24th, 2017, 2:55:55 PM CloBot: Siddharth, we have a training centre for freshers know as Clover Academy. You may learn more about it here http://www.cloverinfotech.com/clover-academy.aspx
+Thursday, August 24th, 2017, 2:55:56 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Thursday, August 24th, 2017, 2:57:48 PM User: Yes
+Thursday, August 24th, 2017, 2:57:50 PM CloBot: What is your query?
+Thursday, August 24th, 2017, 2:58:02 PM User: I just graduated, do you have a job for me?
+Thursday, August 24th, 2017, 2:58:05 PM CloBot: Siddharth, we are surely hiring. Please write to ehire@cloverinfotech.com
+Thursday, August 24th, 2017, 2:58:05 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Thursday, August 24th, 2017, 2:58:51 PM User: Yes
+Thursday, August 24th, 2017, 2:58:51 PM CloBot: What is your query?
+Thursday, August 24th, 2017, 2:59:06 PM User: I just graduated, do you have a job for me?
+Thursday, August 24th, 2017, 2:59:10 PM CloBot: Siddharth, you may apply to Clover Academy where we train freshers on various technologies and employ them to work on projects at Clover. You may learn more about it here http://www.cloverinfotech.com/clover-academy.aspx
+Thursday, August 24th, 2017, 2:59:11 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Thursday, August 24th, 2017, 2:59:18 PM User: Yes
+Thursday, August 24th, 2017, 2:59:19 PM CloBot: What is your query?
+Thursday, August 24th, 2017, 2:59:21 PM User: Restart
+Thursday, August 24th, 2017, 2:59:24 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, August 24th, 2017, 2:59:36 PM User: Employee
+Thursday, August 24th, 2017, 2:59:37 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Thursday, August 24th, 2017, 2:59:39 PM User: Finance
+Thursday, August 24th, 2017, 2:59:40 PM CloBot: What is your query?
+Monday, September 18th, 2017, 5:49:21 PM User: Hey
+Monday, September 18th, 2017, 5:49:23 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Monday, September 18th, 2017, 5:49:26 PM User: Employee
+Monday, September 18th, 2017, 5:49:27 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Monday, September 18th, 2017, 5:49:32 PM User: 2
+Monday, September 18th, 2017, 5:49:33 PM CloBot: Sorry Siddharth, I could not understand
+Monday, September 18th, 2017, 5:49:33 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Monday, September 18th, 2017, 5:49:37 PM User: People
+Monday, September 18th, 2017, 5:49:38 PM CloBot: What is your query?
+Monday, September 18th, 2017, 5:49:55 PM User: Restart
+Monday, September 18th, 2017, 5:50:00 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Monday, September 18th, 2017, 5:50:01 PM User: What can you do
+Monday, September 18th, 2017, 5:50:02 PM CloBot: I can help answer any query you may have. I may not understand everything so you can always ask me for our customer service number!
+Monday, September 18th, 2017, 5:50:07 PM User: Customer Service
+Monday, September 18th, 2017, 5:50:07 PM CloBot: Sorry Siddharth, I could not understand
+Monday, September 18th, 2017, 5:50:45 PM User: Restart
+Monday, September 18th, 2017, 5:51:06 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Monday, September 18th, 2017, 5:51:51 PM User: What can you do?
+Monday, September 18th, 2017, 5:51:54 PM CloBot: I can help answer any query you may have. I may not understand everything so you can always ask me for our customer service number!
+Monday, September 18th, 2017, 5:51:57 PM User: Customer Service
+Monday, September 18th, 2017, 5:51:59 PM CloBot: We will be happy to help you Siddharth

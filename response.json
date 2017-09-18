@@ -1,0 +1,268 @@
+[
+	
+	{
+		"intent":"working hours",
+		"response":"<name>, Monday to Friday are working days and employees are expected to complete 9 hours of work. Saturday and Sunday are holidays but this depends on your manager"
+	},
+
+	{
+		"intent":"working hours saturdaysunday",
+		"response":"Usually, Saturday and Sunday are holidays but this depends on your manager"
+	},
+
+	{
+		"intent":"working time",
+		"response":"The work timings are from 9 pm onwards. All employees are expected to clock in a minimum of 9 hours per day. Saturday and Sunday is a weekly off"
+	},
+
+	{
+		"intent":"working time saturdaysunday",
+		"response":"Usually, Saturday and Sunday are holidays but if you must work on these days then you must clock in 9 hours"
+	},
+
+	{
+		"intent":"promotion",
+		"response":"<name>, Clover Infotech is an employee oriented firm and we evaluate our employees"
+	},
+
+	{
+		"intent":"promotion eligibility",
+		"response":"The eligibility for promotions would depend on your current designation and your performance. It would be on a case-to-case basis"
+	},
+
+	{
+		"intent":"appraisal cycle",
+		"response":"The appraisal cycle at Clover Infotech is April to March"
+	},
+
+	{
+		"intent":"paternity leave",
+		"response":"<name>, paid paternity leave is for a period of 5 days"
+	},
+
+	{
+		"intent":"dress code",
+		"response":"<name>, the dress code for Monday to Thursday is compulsory formal attire. Casuals are allowed on Friday"
+	},
+
+	{
+		"intent":"dress code slippers",
+		"response":"Sorry, <name> open footwear like slippers are not permitted"
+	},
+
+	{
+		"intent":"dress code shoes",
+		"response":"<name>, closed shoes are required to be worn to work"
+	},
+
+	{
+		"intent":"dress code suit",
+		"response":"You may or may not wear a suit. It is not compulsory "
+	},
+
+	{
+		"intent":"dress code shorts",
+		"response":"<name>, shorts are not permitted"
+	},
+
+	{
+		"intent":"dress code casual",
+		"response":"Casuals for men and women should be semi casuals, tee-shirts with collars and decent pants"
+	},
+
+	{
+		"intent":"dress code formal",
+		"response":"Formals for men would be formal pants and shirt, a tie and closed shoes with decent grooming hygiene. Women may wear appropriate formal attire or a saree. ID card should be carried along at all times"
+	},
+
+	{
+		"intent":"dress code women",
+		"response":"<name>, on ordinary days, women must wear formal Indian or western attire. On casual Friday, women must wear semi casuals"
+	},
+
+	{
+		"intent":"dress code tie",
+		"response":"A tie is compulsory for client-facing roles such as Sales and Business Development. The company advises you to wear a tie for all external meetings"
+	},
+
+	{
+		"intent":"dress code t-shirt",
+		"response":"<name>, On Friday, you may wear a tee shirt. However, it cannot be sleeveless"
+	},
+
+	{
+		"intent":"dress code men",
+		"response":"<name>, on ordinary days, dress code for men would be formal pants and shirt, a tie and closed shoes with decent grooming hygiene. On Fridays, it could be smart casuals"
+	},
+
+	{
+		"intent":"dress code sleeveless",
+		"response":"Sorry <name>, sleeveless clothes are not permitted at the workplace"
+	},
+
+	{
+		"intent":"electronic devices",
+		"response":"<name>, all employees are provided with a computer and other accessories with it. Mobile connection payments vary according to designation"
+	},
+
+	{
+		"intent":"holiday",
+		"response":"Permanent employees get 1.75 days credited to their account per month of service"
+	},
+
+	{
+		"intent":"holiday festival",
+		"response":"A list of holidays on festivals can be obtained from the HR department"
+	},
+
+	{
+		"intent":"holiday year",
+		"response":"An employee may take upto 21 days of leave per year but only 10.5 days can be carried forward to the next year"
+	},
+
+	{
+		"intent":"holiday probation",
+		"response":"<name>, Employees on probation cannot take any leaves for a period of 6 months but will be given 10.5 days of leave on the completion of tenure"
+	},
+
+	{
+		"intent":"holiday saturdaysunday",
+		"response":"<name>, Saturday and Sunday are holidays. There could be exceptions based on some critical projects or deadlines to be met"
+	},
+
+	{
+		"intent":"holiday list",
+		"response":"<name>, you may get a complete list of holidays from the HR"
+	},
+
+	{
+		"intent":"maternity leave",
+		"response":"<name>, we provide a paid maternity leave of 6 months"
+	},
+
+	{
+		"intent":"perks",
+		"response":"<name>, we are an employee oriented organisation. We provide all our employees with a healthy and sound work environment. Refreshments and canteen facilities are also provided"
+	},
+
+	{
+		"intent":"half day",
+		"response":"Permanent employees are allowed to take 1.75 days of leave every month. If it exceeds this number, salary deductions take place"
+	},
+
+	{
+		"intent":"insurance",
+		"response":"Yes, we provide a group medical insurance to all the employees on our payroll"
+	},
+
+	{
+		"intent":"insurance coverage",
+		"response":"Please get in touch with the HR department to know about your company providing the insurance and the total coverage"
+	},
+
+	{
+		"intent":"documents",
+		"response":"<name> at the time of joining, one must carry the following documents along with them. They include, \nEducational qualifications (certificates, etc) \nKYC details \nIdentity proof \nPhotocopies of all the above documents and passport size photographs \nThese documents must be submitted to the HR department"
+	},
+
+	{
+		"intent":"offer letter",
+		"response":"At the time of joining, a copy of offer letter  and appointment letter is provided to the employee and a soft copy is sent via email. In case these documents are not received by the due date, please contact the HR department"
+	},
+
+	{
+		"intent":"induction",
+		"response":"<name>, Induction is a process conducted on the joining day. HR conducts an induction of the employees in which they explain the working of the company and explain what the company is all about"
+	},
+
+	{
+		"intent":"ID card",
+		"response":"<name>, at the time of joining, candidate must fill an ID card form and submit it to the HR department. You will receive your ID card in about two weeks "
+	},
+
+	{
+		"intent":"allowance",
+		"response":"Travel allowance, food allowance, house rent allowance, etc. is added to your salary and paid together. This is represented in your gross salary"
+	},
+
+	{
+		"intent":"first salary",
+		"response":"First salary is paid via cheque. Following salaries are deposited to your salary account. "
+	},
+
+	{
+		"intent":"job opening",
+		"response":"<name>, we are surely hiring. Please write to ehire@cloverinfotech.com"
+	},
+
+	{
+		"intent":"job opening fresher",
+		"response":"<name>, you may apply to Clover Academy where we train freshers on various technologies and employ them to work on projects at Clover. You may learn more about it here http://www.cloverinfotech.com/clover-academy.aspx"
+	},
+
+	{
+		"intent":"address",
+		"response":"We are located at Dhana Singh Processors Building, Vazir Glass Lane, JB Nagar, Andheri ( E ) - 400059. To know the address in another city, click on the link below \nhttp://www.cloverinfotech.com/contact.aspx"
+	},
+
+	{
+		"intent":"email ID",
+		"response":"The email IDs that can be reached are as below: \n1. Careers/ Job enquiries, vacancies (ehire@cloverinfotech.com) \n2. Business Enquiries (marketing@cloverinfotech.com)"
+	},
+
+	{
+		"intent":"notice period",
+		"response":"<name>, the notice period could be between two to three months, depending on your level of seniority"
+	},
+
+	{
+		"intent":"personal account",
+		"response":"Your salary is credited into a salary account provided to you by the company "
+	},
+
+	{
+		"intent":"basic salary",
+		"response":"<name>, The break-up of salary components is written in the 'Salary Breakup' sheet which is given along with your offer letter"
+	},
+
+	{
+		"intent":"payment date",
+		"response":"The salary gets credited into your bank account on the last working day of the month"
+	},
+
+	{
+		"intent":"salary slip",
+		"response":"<name>, please contact the payroll department for your salary slip"
+	},
+
+	{
+		"intent":"monetary benefits",
+		"response":"Monetary benefits vary according to your designation"
+	},
+
+	{
+		"intent":"advance",
+		"response":"<name> A salary advance can be given if you are a permanent employee on our payroll and you have an approval from your manager"
+	},
+
+	{
+		"intent":"sodexo",
+		"response":"<name>, we ensure tax friendly salary structure for our employees. Sodexo coupons can be availed upto Rs 2500 per month which is tax free and will be deducted out of your gross salary"
+	},
+
+	{
+		"intent":"mediclaim",
+		"response":"All permanent employees and their family are covered under the group mediclaim policy. Please contact the HR to know more. "
+	},
+
+	{
+		"intent":"provident fund",
+		"response":"<name>, a provident fund account will be created if an employee does not already possesses one. If an employee has an existing P.F. account then they will be required to update the details"
+	},
+
+	{
+		"intent":"provident fund transfer",
+		"response":"Please get in touch with the HR to know more about this"
+	}
+
+]
