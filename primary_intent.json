@@ -67,6 +67,11 @@
 	{
 		"keyword":["HELP","WHAT CAN YOU DO","HOW CAN YOU HELP ME","HELP ME PLEASE","I NEED HELP"],
 		"intent":"help"
+	},
+
+	{
+		"keyword":["START","STARTS"],
+		"intent":"start"
 	}
 
 ]

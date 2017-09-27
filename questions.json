@@ -1,0 +1,247 @@
+[
+{
+"question":"Which class cannot be subclassed (or extended) in Java?",
+"answer":"Final class",
+"option":[ "abstract class","parent class","Final class","None of above"]
+},
+{
+"question":"Can we declare abstract static method?",
+"answer":"No",
+"option":[ "Yes","No"]
+},
+{
+"question":" Can we access private class outside the package",
+"answer":"No",
+"option":[ "Yes","No"]
+}, 
+{
+"question":"Why we use array as a parameter of main method?",
+"answer":"Can store multiple values",
+"option":[ "it is syntax","Can store multiple values","Both of above","None of above"]
+},
+{
+"question":"Suspend thread can be revived by using",
+"answer":"resume() method",
+"option":[ "start() method","Suspend() method","resume() method","yield() method"]
+},  
+{
+"question":" Runnable is",
+"answer":"Interface",
+"option":[ "Class","Method","Variable","Interface"]
+},
+{
+"question":" Which collection class associates values with keys, and orders the keys according to their natural order?",
+"answer":"java.util.TreeMap",
+"option":[ "java.util.HashSet","java.util.LinkedList","java.util.TreeMap","java.util.SortedSet"]
+},
+{
+"question":"  Which method is used to perform DML statements in JDBC?",
+"answer":"executeUpdate()",
+"option":[ "execute()","executeUpdate()","executeQuery()","None of above"]
+},  
+{
+"question":" Which of the following below are valid isolation levels in J2EE?",
+"answer":"Both A and B",
+"option":[ "TRANSACTION_READ_UNCOMMITTED","TRANSACTION_SERIALIZABLE","Only A","Both A and B"]
+},
+{
+"question":"Session beans are created by the client submitting the query to the database",
+"answer":"True",
+"option":[ "True","False"]
+},  
+{
+"question":" Which methods are utilized to control the access to an object in multi threaded programming?",
+"answer":"Synchronized methods",
+"option":[ "Asynchronized methods","Synchronized methods","Serialized methods","None of above"]
+},  
+{
+"question":"In Runnable, many threads share the same object instance",
+"answer":"True",
+"option":[ "True","False"]
+}, 
+{
+"question":"In Runnable, many threads share the same object instance",
+"answer":"True",
+"option":[ "True","False"]
+},
+{
+"question":"Java beans have no types",
+"answer":"True",
+"option":[ "True","False"]
+},
+{
+"question":"Program which executes applet is known as",
+"answer":"applet engine",
+"option":[ "applet engine","virtual machine","JVM","None of above"]
+},
+{
+"question":" Which statement is static and synchronized in JDBC API?",
+"answer":"getConnection()",
+"option":[ "executeQuery()","executeUpdate()","getConnection()","prepareCall()"]
+},
+{
+"question":"Which access specifiers can be used with top level class ?",
+"answer":"public or default",
+"option":[ "public or default","public or private","public or protected","protected or default"]
+},
+{
+"question":"Which of the following can be marked static ?",
+"answer":"Methods , Variables , Initialization Blocks and nested Classes",
+"option":[ "Methods , Variables and Initialization Blocks","Methods , Variables , Initialization Blocks and Outer Classes and nested Classes","Methods , Variables , Initialization Blocks and Outer Classes.","Methods , Variables , Initialization Blocks and nested Classes"]
+},
+{
+"question":"Which of the following cannot be marked static ?",
+"answer":"Constructors , Classes ( Outer ) , Interfaces , Local variables , Inner Class methods and instance variables",
+"option":[ "Constructors , Classes ( Outer ) , Classes ( nested ), Interfaces , Local variables , Inner Class methods and instance variables","Constructors , Classes ( Outer ) , Interfaces , Local variables , Class variables , Class Methods , Inner Class methods and instance variables","Constructors , Classes ( Outer ) , Interfaces , Local variables , Inner Class methods and instance variables","Constructors , Classes ( Outer ) , Classes (Nested), Interfaces , Local variables , Inner Class methods and instance variables"]
+},
+{
+"question":" Which of the following collection maintain its elements in Natural Sorted order ? ",
+"answer":"TreeMap",
+"option":[ "HashMap","TreeMap","LinkedHashMap","LinkedMap"]
+},
+{
+"question":"Which of the following collections stores its elements in insertion Order ?",
+"answer":"LinkedHashMap",
+"option":[ "HashMap","TreeMap","LinkedHashMap","LinkedMap"]
+},
+{
+"question":"If we add Enum constants to a sorted collection ( Treemap , TreeSet ), What will be the order in which they will be maintained ?",
+"answer":"Order in which constants are declared",
+"option":[ "Sorted Collection wont maintain them in any order.","Insertion Order","Order in which constants are declared.","Natural Sorting Order"]
+},
+{
+"question":"In what order the elements of a HashSet are retrieved ?",
+"answer":"Random Order",
+"option":[ "Random Order"," Insertion Order","Natural Sorting Order","Inverse Natural Sorting Order"]
+},
+{
+"question":"Which of the following was not introduced with Java 5 ?",
+"answer":"Strings within Switch",
+"option":[ "Generics","Strings within Switch","Enums","Annotations"]
+},
+{
+"question":"Which interface does java.util.Hashtable implement ?",
+"answer":"Map",
+"option":[ "List","Set","Collection","Map"]
+},
+{
+"question":"Which of the collections allows null as the key ?",
+"answer":"HashTable",
+"option":[ "HashTable","HashMap","TreeMap","LinkedHashMap"]
+},
+{
+"question":"What is the initial state of a thread when it is created and started ?",
+"answer":"Ready",
+"option":[ "Wait","Running","Ready","Sleep"]
+},
+{
+"question":"What state does a thread enter when it terminates its processing?",
+"answer":"Dead",
+"option":[ "Wait","Running","Ready","Dead"]
+},
+{
+"question":"How many bits are used to represent Unicode ?",
+"answer":"16 bits",
+"option":[ "8 bits","16 bits","24 bits","32 bits"]
+},
+{
+"question":"Which keyword is used to provide explicit access of a code block to single thread ?",
+"answer":"Synchronized",
+"option":[ "Transient","Final","Explicit","Synchronized"]
+},
+{
+"question":"Which of the following exception is thrown when we try to access element which is beyond the size ?",
+"answer":"ArrayIndexOutOfBoundException",
+"option":[ "NullPointerException","ArrayIndexOutOfBoundException","ArithmeticException","ParseException"]
+},
+{
+"question":"Checked exception needs to be ... ",
+"answer":"Either A or B",
+"option":[ "Caught","Method needs to declare that it throws these exception","Either A or B","Both A and B"]
+},
+{
+"question":"Collections.sort can only be performed on ..",
+"answer":"List",
+"option":[ "Set","List","Map","Any Collection implementation"]
+},
+{
+"question":"Variables of an interface are intrinsically ...",
+"answer":"transient",
+"option":[ "transient","final","public","static"]
+},
+{
+"question":"Which of the following class creates mutable objects ?",
+"answer":"StringBuffer",
+"option":[ "Boolean","File","String","StringBuffer"]
+},
+{
+"question":"Invoking start twice on same thread leads to ..",
+"answer":"IllegalStateException",
+"option":[ "ClassCastException","NullPointerException","InterruptedException","IllegalStateException"]
+},
+{
+"question":"Which of the following doesn't extend Collection interface ?",
+"answer":"Map",
+"option":[ "Set","List","Map","Queue"]
+},
+{
+"question":"Which method is called first by an applet program?",
+"answer":"init()",
+"option":[ "start()","run()","init()","begin()"]
+},
+{
+"question":"A constructor that is automatically generated in the absence of explicit constructors called?",
+"answer":"All the above",
+"option":[ "Default Constructor","Nullary Constructor","Empty Constructor","All the above"]
+},
+{
+"question":"Choose best option that describes Constructor",
+"answer":"Use name of the class and have no return type",
+"option":[ "Have no return type","Use name of the class and have no return type","Use name of the class","None of the above"]
+},
+{
+"question":"Overloaded methods are differentiated by",
+"answer":"Number and the Data type of the arguments",
+"option":[ "Number of arguments","Data type of arguments","Number and the Data type of the arguments","None of the above"]
+},
+{
+"question":"Which keyword is used to inherit class?",
+"answer":"extends",
+"option":[ "inherit","extends","inheritance","extend"]
+},
+{
+"question":"Which method of System class is used to copy array?",
+"answer":"arraycopy",
+"option":[ "copyArray","arrayCopy","arraycopy","arrCopy"]
+},
+{
+"question":"Which is not a valid keyword in java?",
+"answer":"null",
+"option":[ "null","transient","synchronized","native"]
+},
+{
+"question":"Unchecked exceptions are checked at compile-time rather they are checked at runtime",
+"answer":"False",
+"option":[ "True","False"]
+},
+{
+"question":"The PipedInputStream and PipedOutputStream classes can be used to read and write data simultaneously",
+"answer":"True",
+"option":[ "True","False"]
+},
+{
+"question":"ResultSetMetaData interface is useful because it provides methods to get metadata from the ResultSet object",
+"answer":"True",
+"option":[ "True","False"]
+},
+{
+"question":" How many reserved keywords are currently defined in the Java language?",
+"answer":"49",
+"option":[ "48","49","50","47"]
+},
+{
+"question":"Which mechanism is used when a thread is paused while running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed?",
+"answer":"Inter-thread communication",
+"option":[ "Inter-thread communication","Initial-thread communication","Mutual Exclusive","None of the above"]
+}
+]

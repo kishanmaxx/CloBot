@@ -92,3 +92,522 @@ Monday, September 18th, 2017, 5:51:51 PM User: What can you do?
 Monday, September 18th, 2017, 5:51:54 PM CloBot: I can help answer any query you may have. I may not understand everything so you can always ask me for our customer service number!
 Monday, September 18th, 2017, 5:51:57 PM User: Customer Service
 Monday, September 18th, 2017, 5:51:59 PM CloBot: We will be happy to help you Siddharth
+Monday, September 18th, 2017, 7:50:38 PM User: Get started
+Monday, September 18th, 2017, 7:50:39 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Monday, September 18th, 2017, 7:50:46 PM User: Great
+Monday, September 18th, 2017, 7:50:47 PM CloBot: Sorry Siddharth, I could not understand
+Monday, September 18th, 2017, 7:50:47 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Monday, September 18th, 2017, 7:50:54 PM User: Employee
+Monday, September 18th, 2017, 7:50:55 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Monday, September 18th, 2017, 7:51:00 PM User: 2
+Monday, September 18th, 2017, 7:51:01 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Monday, September 18th, 2017, 7:51:01 PM CloBot: Sorry Siddharth, I could not understand
+Monday, September 18th, 2017, 7:51:04 PM User: Restart
+Monday, September 18th, 2017, 7:51:05 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Monday, September 18th, 2017, 7:51:08 PM User: Employee
+Monday, September 18th, 2017, 7:51:08 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Monday, September 18th, 2017, 7:51:12 PM User: People
+Monday, September 18th, 2017, 7:51:13 PM CloBot: What is your query?
+Monday, September 18th, 2017, 7:51:23 PM User: What are the office timings
+Monday, September 18th, 2017, 7:51:29 PM CloBot: Sorry Siddharth I do not have an answer to this question yet. We will get back to you shortly
+Monday, September 18th, 2017, 7:51:29 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Monday, September 18th, 2017, 7:51:38 PM User: Office timing?
+Monday, September 18th, 2017, 7:51:38 PM CloBot: Sorry Siddharth, I could not understand
+Monday, September 18th, 2017, 7:51:38 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Monday, September 18th, 2017, 7:51:46 PM User: Yes
+Monday, September 18th, 2017, 7:51:47 PM CloBot: What is your query?
+Monday, September 18th, 2017, 7:51:54 PM User: What is the working timings?
+Monday, September 18th, 2017, 7:51:57 PM CloBot: Sorry Siddharth I do not have an answer to this question yet. We will get back to you shortly
+Monday, September 18th, 2017, 7:51:58 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Monday, September 18th, 2017, 7:53:43 PM User: Yes
+Monday, September 18th, 2017, 7:53:44 PM CloBot: What is your query?
+Monday, September 18th, 2017, 7:53:51 PM User: What are the office hours?
+Monday, September 18th, 2017, 7:53:53 PM CloBot: The work timings are from 9 pm onwards. All employees are expected to clock in a minimum of 9 hours per day. Saturday and Sunday is a weekly off
+Monday, September 18th, 2017, 7:53:54 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Monday, September 18th, 2017, 7:53:59 PM User: Yes
+Monday, September 18th, 2017, 7:54:00 PM CloBot: What is your query?
+Monday, September 18th, 2017, 7:54:10 PM User: Am I allowed to wear shorts to work?
+Monday, September 18th, 2017, 7:54:13 PM CloBot: Siddharth, shorts are not permitted
+Monday, September 18th, 2017, 7:54:14 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Monday, September 18th, 2017, 7:54:18 PM User: Yes
+Monday, September 18th, 2017, 7:54:18 PM CloBot: What is your query?
+Monday, September 18th, 2017, 7:54:26 PM User: How long is the maternity leave?
+Monday, September 18th, 2017, 7:54:29 PM CloBot: Siddharth, we provide a paid maternity leave of 6 months
+Monday, September 18th, 2017, 7:54:29 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Monday, September 18th, 2017, 7:54:34 PM User: Yes
+Monday, September 18th, 2017, 7:54:35 PM CloBot: What is your query?
+Monday, September 18th, 2017, 7:54:59 PM User: what is the paternity leave?
+Monday, September 18th, 2017, 7:55:04 PM CloBot: Siddharth, paid paternity leave is for a period of 5 days
+Monday, September 18th, 2017, 7:55:04 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Monday, September 18th, 2017, 10:11:34 PM User: Yes
+Monday, September 18th, 2017, 10:11:35 PM CloBot: What is your query?
+Tuesday, September 26th, 2017, 4:59:31 PM User: Hello
+Tuesday, September 26th, 2017, 4:59:33 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Tuesday, September 26th, 2017, 4:59:38 PM User: employee
+Tuesday, September 26th, 2017, 4:59:39 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Tuesday, September 26th, 2017, 4:59:42 PM User: People
+Tuesday, September 26th, 2017, 4:59:43 PM CloBot: What is your query?
+Tuesday, September 26th, 2017, 4:59:52 PM User: Can I wear shorts to work?
+Tuesday, September 26th, 2017, 5:00:01 PM CloBot: Siddharth, shorts are not permitted
+Tuesday, September 26th, 2017, 5:00:02 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Tuesday, September 26th, 2017, 5:00:07 PM User: restart
+Tuesday, September 26th, 2017, 5:00:10 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Tuesday, September 26th, 2017, 5:00:13 PM User: Non Employee
+Tuesday, September 26th, 2017, 5:00:14 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Tuesday, September 26th, 2017, 5:00:34 PM User: Job Seeker
+Tuesday, September 26th, 2017, 5:00:35 PM CloBot: What is your query?
+Tuesday, September 26th, 2017, 5:03:57 PM User: undefined
+Tuesday, September 26th, 2017, 5:04:04 PM CloBot: Sorry Siddharth I do not have an answer to this question yet. We will get back to you shortly
+Tuesday, September 26th, 2017, 5:04:06 PM CloBot: Would you like to know anything else Siddharth? (Yes/No)
+Wednesday, September 27th, 2017, 1:08:11 PM User: Get started
+Wednesday, September 27th, 2017, 1:08:13 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 1:10:49 PM User: Get started
+Wednesday, September 27th, 2017, 1:10:51 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 1:11:25 PM User: Get started
+Wednesday, September 27th, 2017, 1:11:27 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 1:12:01 PM User: Hello
+Wednesday, September 27th, 2017, 1:12:02 PM User: Non Employee
+Wednesday, September 27th, 2017, 1:12:03 PM User: I am a non-employee
+Wednesday, September 27th, 2017, 1:12:03 PM User: Non Employee
+Wednesday, September 27th, 2017, 1:12:04 PM User: Employee
+Wednesday, September 27th, 2017, 1:12:05 PM User: Hello
+Wednesday, September 27th, 2017, 1:12:05 PM CloBot: Sorry Siddharth, I could not understand
+Wednesday, September 27th, 2017, 1:12:05 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 1:12:05 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 1:12:05 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 1:12:05 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 1:12:06 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 1:12:07 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 1:13:04 PM User: Non Employee
+Wednesday, September 27th, 2017, 1:13:05 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 1:13:08 PM User: Job Seeker
+Wednesday, September 27th, 2017, 1:13:09 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 1:13:13 PM User: Yes
+Wednesday, September 27th, 2017, 1:13:14 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 1:13:16 PM User: Start
+Wednesday, September 27th, 2017, 1:13:49 PM User: Get started
+Wednesday, September 27th, 2017, 1:13:57 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 1:14:00 PM User: Non Employee
+Wednesday, September 27th, 2017, 1:14:05 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 1:14:14 PM User: Job Seeker
+Wednesday, September 27th, 2017, 1:14:15 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 1:14:19 PM User: No
+Wednesday, September 27th, 2017, 1:14:20 PM CloBot: Goodbye, I hope I could help you!
+Wednesday, September 27th, 2017, 2:54:43 PM User: Hello
+Wednesday, September 27th, 2017, 2:54:50 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 2:54:52 PM User: Non Employee
+Wednesday, September 27th, 2017, 2:54:53 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 2:54:56 PM User: Job Seeker
+Wednesday, September 27th, 2017, 2:54:58 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 2:55:02 PM User: Yes
+Wednesday, September 27th, 2017, 2:55:05 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 2:55:34 PM User: Start
+Wednesday, September 27th, 2017, 2:57:07 PM User: Hello
+Wednesday, September 27th, 2017, 2:57:10 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 2:57:15 PM User: Non Employee
+Wednesday, September 27th, 2017, 2:57:17 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 2:57:20 PM User: Job Seeker
+Wednesday, September 27th, 2017, 2:57:22 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 2:57:25 PM User: Yes
+Wednesday, September 27th, 2017, 2:57:26 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 2:57:30 PM User: Start
+Wednesday, September 27th, 2017, 2:57:50 PM User: Hello
+Wednesday, September 27th, 2017, 2:57:53 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 2:57:56 PM User: Non Employee
+Wednesday, September 27th, 2017, 2:57:57 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 2:58:00 PM User: Job Seeker
+Wednesday, September 27th, 2017, 2:58:01 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 2:58:05 PM User: Yes
+Wednesday, September 27th, 2017, 2:58:06 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 2:58:09 PM User: Start
+Wednesday, September 27th, 2017, 2:59:30 PM User: Hello
+Wednesday, September 27th, 2017, 2:59:32 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 2:59:34 PM User: Non Employee
+Wednesday, September 27th, 2017, 2:59:35 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 2:59:37 PM User: Job Seeker
+Wednesday, September 27th, 2017, 2:59:38 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 2:59:45 PM User: Yes
+Wednesday, September 27th, 2017, 2:59:47 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 2:59:50 PM User: Start
+Wednesday, September 27th, 2017, 3:00:37 PM User: Hello
+Wednesday, September 27th, 2017, 3:00:39 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:00:42 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:00:43 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:00:45 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:00:47 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:00:49 PM User: Yes
+Wednesday, September 27th, 2017, 3:00:51 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:00:53 PM User: Start
+Wednesday, September 27th, 2017, 3:01:36 PM User: Hello
+Wednesday, September 27th, 2017, 3:01:41 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:01:44 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:01:45 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:01:47 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:01:48 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:01:51 PM User: Yes
+Wednesday, September 27th, 2017, 3:01:52 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:01:55 PM User: Start
+Wednesday, September 27th, 2017, 3:03:08 PM User: Get started
+Wednesday, September 27th, 2017, 3:03:12 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:03:14 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:03:15 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:03:18 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:03:19 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:03:22 PM User: Yes
+Wednesday, September 27th, 2017, 3:03:24 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:03:26 PM User: Start
+Wednesday, September 27th, 2017, 3:03:27 PM CloBot: Which of the following can be marked static ?
+Wednesday, September 27th, 2017, 3:03:41 PM User: Methods , Variables and Initialization Blocks
+Wednesday, September 27th, 2017, 3:05:10 PM User: Get started
+Wednesday, September 27th, 2017, 3:05:14 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:05:16 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:05:16 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:05:18 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:05:19 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:05:26 PM User: Yes
+Wednesday, September 27th, 2017, 3:05:27 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:05:29 PM User: Start
+Wednesday, September 27th, 2017, 3:05:30 PM CloBot: Unchecked exceptions are checked at compile-time rather they are checked at runtime
+Wednesday, September 27th, 2017, 3:12:51 PM User: Hello
+Wednesday, September 27th, 2017, 3:12:52 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:12:55 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:12:56 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:13:00 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:13:01 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:13:04 PM User: Yes
+Wednesday, September 27th, 2017, 3:13:05 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:13:08 PM User: Start
+Wednesday, September 27th, 2017, 3:13:09 PM CloBot:  Runnable is
+Wednesday, September 27th, 2017, 3:14:05 PM User: Get started
+Wednesday, September 27th, 2017, 3:14:11 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:14:14 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:14:15 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:14:21 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:14:22 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:14:26 PM User: Yes
+Wednesday, September 27th, 2017, 3:14:26 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:14:29 PM User: Start
+Wednesday, September 27th, 2017, 3:14:30 PM CloBot:  Which collection class associates values with keys, and orders the keys according to their natural order?
+Wednesday, September 27th, 2017, 3:15:15 PM User: Get started
+Wednesday, September 27th, 2017, 3:15:20 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:15:25 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:15:26 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:15:29 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:15:29 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:15:32 PM User: Yes
+Wednesday, September 27th, 2017, 3:15:34 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:15:36 PM User: Start
+Wednesday, September 27th, 2017, 3:15:37 PM CloBot: Which mechanism is used when a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed? 
+Wednesday, September 27th, 2017, 3:16:01 PM User: Get started
+Wednesday, September 27th, 2017, 3:16:03 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:16:05 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:16:06 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:16:09 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:16:09 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:16:13 PM User: Yes
+Wednesday, September 27th, 2017, 3:16:14 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:16:17 PM User: Start
+Wednesday, September 27th, 2017, 3:16:18 PM CloBot: Which mechanism is used when a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed? 
+Wednesday, September 27th, 2017, 3:23:21 PM User: Get started
+Wednesday, September 27th, 2017, 3:23:22 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:23:25 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:23:26 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:23:28 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:23:28 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:23:31 PM User: Yes
+Wednesday, September 27th, 2017, 3:23:32 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:23:37 PM User: Start
+Wednesday, September 27th, 2017, 3:23:38 PM CloBot: Unchecked exceptions are checked at compile-time rather they are checked at runtime
+Wednesday, September 27th, 2017, 3:24:22 PM User: 2
+Wednesday, September 27th, 2017, 3:52:36 PM User: Get started
+Wednesday, September 27th, 2017, 3:52:38 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:52:41 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:52:42 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:52:45 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:52:46 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:52:49 PM User: Yes
+Wednesday, September 27th, 2017, 3:52:50 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:52:55 PM User: Start
+Wednesday, September 27th, 2017, 3:52:56 PM CloBot: Which of the following can be marked static ?
+Wednesday, September 27th, 2017, 3:54:02 PM User: 1
+Wednesday, September 27th, 2017, 3:55:42 PM User: Get started
+Wednesday, September 27th, 2017, 3:55:43 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 3:57:12 PM User: Non Employee
+Wednesday, September 27th, 2017, 3:57:13 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 3:57:16 PM User: Job Seeker
+Wednesday, September 27th, 2017, 3:57:17 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 3:57:21 PM User: Yes
+Wednesday, September 27th, 2017, 3:57:21 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 3:57:24 PM User: Start
+Wednesday, September 27th, 2017, 3:57:25 PM CloBot: Which mechanism is used when a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed? 
+Wednesday, September 27th, 2017, 3:57:28 PM User: 1
+Wednesday, September 27th, 2017, 4:02:48 PM User: Get started
+Wednesday, September 27th, 2017, 4:02:53 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 4:02:58 PM User: Non Employee
+Wednesday, September 27th, 2017, 4:02:59 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 4:03:02 PM User: Job Seeker
+Wednesday, September 27th, 2017, 4:03:03 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 4:03:11 PM User: Yes
+Wednesday, September 27th, 2017, 4:03:12 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 4:03:15 PM User: Start
+Wednesday, September 27th, 2017, 4:03:16 PM CloBot: Unchecked exceptions are checked at compile-time rather they are checked at runtime
+Wednesday, September 27th, 2017, 4:03:18 PM User: 1
+Wednesday, September 27th, 2017, 4:03:20 PM CloBot: Which of the following class creates mutable objects ?
+Wednesday, September 27th, 2017, 4:03:23 PM User: 2
+Wednesday, September 27th, 2017, 4:03:24 PM CloBot: Choose best option that describes Constructor
+Wednesday, September 27th, 2017, 4:03:27 PM User: 3
+Wednesday, September 27th, 2017, 4:03:28 PM CloBot: What state does a thread enter when it terminates its processing?
+Wednesday, September 27th, 2017, 4:03:40 PM User: 4
+Wednesday, September 27th, 2017, 4:03:40 PM CloBot:   Which method is used to perform DML statements in JDBC?
+Wednesday, September 27th, 2017, 4:03:57 PM User: 2
+Wednesday, September 27th, 2017, 4:03:58 PM CloBot: Program which executes applet is known as
+Wednesday, September 27th, 2017, 4:04:10 PM User: 1
+Wednesday, September 27th, 2017, 4:04:11 PM CloBot: Program which executes applet is known as
+Wednesday, September 27th, 2017, 4:05:33 PM User: 4
+Wednesday, September 27th, 2017, 4:05:34 PM CloBot: Which of the following can be marked static ?
+Wednesday, September 27th, 2017, 4:05:39 PM User: 4
+Wednesday, September 27th, 2017, 4:05:40 PM CloBot: Which of the following was not introduced with Java 5 ?
+Wednesday, September 27th, 2017, 4:05:53 PM User: 3
+Wednesday, September 27th, 2017, 4:05:54 PM CloBot:  Which of the following below are valid isolation levels in J2EE?
+Wednesday, September 27th, 2017, 4:06:02 PM User: 3
+Wednesday, September 27th, 2017, 4:06:02 PM CloBot: Collections.sort can only be performed on ..
+Wednesday, September 27th, 2017, 4:06:11 PM User: 3
+Wednesday, September 27th, 2017, 4:06:12 PM CloBot: Which interface does java.util.Hashtable implement ?
+Wednesday, September 27th, 2017, 4:06:17 PM User: 2
+Wednesday, September 27th, 2017, 4:06:18 PM CloBot: Thank you. Your have gotten 4 out of 12 questions correct. Your details will be mailed to our HR department and they will contact you soon
+Wednesday, September 27th, 2017, 4:07:26 PM User: Hello
+Wednesday, September 27th, 2017, 4:07:28 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 4:14:38 PM User: Non Employee
+Wednesday, September 27th, 2017, 4:14:41 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 4:14:44 PM User: Job Seeker
+Wednesday, September 27th, 2017, 4:14:45 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 4:14:50 PM User: Yes
+Wednesday, September 27th, 2017, 4:14:50 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 4:14:53 PM User: Start
+Wednesday, September 27th, 2017, 4:14:54 PM CloBot:  Which collection class associates values with keys, and orders the keys according to their natural order?
+Wednesday, September 27th, 2017, 4:14:57 PM User: 2
+Wednesday, September 27th, 2017, 4:14:58 PM CloBot: Why we use array as a parameter of main method?
+Wednesday, September 27th, 2017, 4:15:01 PM User: 3
+Wednesday, September 27th, 2017, 4:15:02 PM CloBot:  How many reserved keywords are currently defined in the Java language?
+Wednesday, September 27th, 2017, 4:15:05 PM User: 2
+Wednesday, September 27th, 2017, 4:15:06 PM CloBot: Which of the following was not introduced with Java 5 ?
+Wednesday, September 27th, 2017, 4:15:09 PM User: 3
+Wednesday, September 27th, 2017, 4:15:10 PM CloBot: Which of the following collections stores its elements in insertion Order ?
+Wednesday, September 27th, 2017, 4:15:14 PM User: 2
+Wednesday, September 27th, 2017, 4:15:15 PM CloBot: Which keyword is used to inherit class?
+Wednesday, September 27th, 2017, 4:15:18 PM User: 3
+Wednesday, September 27th, 2017, 4:15:19 PM CloBot: Which keyword is used to inherit class?
+Wednesday, September 27th, 2017, 4:15:22 PM User: 2
+Wednesday, September 27th, 2017, 4:15:23 PM CloBot: How many bits are used to represent Unicode ?
+Wednesday, September 27th, 2017, 4:15:25 PM User: 3
+Wednesday, September 27th, 2017, 4:15:26 PM CloBot: In Runnable, many threads share the same object instance
+Wednesday, September 27th, 2017, 4:15:29 PM User: 1
+Wednesday, September 27th, 2017, 4:15:30 PM CloBot: Which is not a valid keyword in java?
+Wednesday, September 27th, 2017, 4:15:33 PM User: 3
+Wednesday, September 27th, 2017, 4:15:34 PM CloBot: Program which executes applet is known as
+Wednesday, September 27th, 2017, 4:15:38 PM User: 1
+Wednesday, September 27th, 2017, 4:15:39 PM CloBot: A constructor that is automatically generated in the absence of explicit constructors called?
+Wednesday, September 27th, 2017, 4:15:42 PM User: 3
+Wednesday, September 27th, 2017, 4:15:43 PM CloBot: Thank you. Your have gotten 3 out of 12 questions correct. Your details will be mailed to our HR department and they will contact you soon
+Wednesday, September 27th, 2017, 4:16:02 PM User: Hello
+Wednesday, September 27th, 2017, 4:16:04 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 4:27:29 PM User: Non Employee
+Wednesday, September 27th, 2017, 4:27:32 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 4:27:35 PM User: Non Employee
+Wednesday, September 27th, 2017, 4:27:36 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 4:27:39 PM User: Job Seeker
+Wednesday, September 27th, 2017, 4:27:40 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 4:27:43 PM User: Yes
+Wednesday, September 27th, 2017, 4:27:45 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 4:27:47 PM User: Start
+Wednesday, September 27th, 2017, 4:27:48 PM CloBot: Which mechanism is used when a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed? 
+Wednesday, September 27th, 2017, 4:27:51 PM User: 3
+Wednesday, September 27th, 2017, 4:27:53 PM CloBot: Which of the following can be marked static ?
+Wednesday, September 27th, 2017, 4:27:58 PM User: 2
+Wednesday, September 27th, 2017, 4:27:58 PM CloBot: Overloaded methods are differentiated by
+Wednesday, September 27th, 2017, 4:28:02 PM User: 3
+Wednesday, September 27th, 2017, 4:28:03 PM CloBot: Which of the following collections stores its elements in insertion Order ?
+Wednesday, September 27th, 2017, 4:28:06 PM User: 3
+Wednesday, September 27th, 2017, 4:28:07 PM CloBot: If we add Enum constants to a sorted collection ( Treemap , TreeSet ), What will be the order in which they will be maintained ?
+Wednesday, September 27th, 2017, 4:28:10 PM User: 3
+Wednesday, September 27th, 2017, 4:28:11 PM CloBot: Which keyword is used to provide explicit access of a code block to single thread ?
+Wednesday, September 27th, 2017, 4:28:14 PM User: 3
+Wednesday, September 27th, 2017, 4:28:15 PM CloBot:  Which of the following below are valid isolation levels in J2EE?
+Wednesday, September 27th, 2017, 4:28:17 PM User: 3
+Wednesday, September 27th, 2017, 4:28:18 PM CloBot: Which of the following was not introduced with Java 5 ?
+Wednesday, September 27th, 2017, 4:28:21 PM User: 3
+Wednesday, September 27th, 2017, 4:28:22 PM CloBot: In what order the elements of a HashSet are retrieved ?
+Wednesday, September 27th, 2017, 4:28:25 PM User: 3
+Wednesday, September 27th, 2017, 4:28:26 PM CloBot:  Which collection class associates values with keys, and orders the keys according to their natural order?
+Wednesday, September 27th, 2017, 4:28:29 PM User: 3
+Wednesday, September 27th, 2017, 4:28:30 PM CloBot: Collections.sort can only be performed on ..
+Wednesday, September 27th, 2017, 4:28:35 PM User: 3
+Wednesday, September 27th, 2017, 4:28:35 PM CloBot: Which interface does java.util.Hashtable implement ?
+Wednesday, September 27th, 2017, 4:28:40 PM User: 3
+Wednesday, September 27th, 2017, 4:28:41 PM CloBot: Thank you. Your have gotten 3 out of 12 questions correct. Your details will be mailed to our HR department and they will contact you soon
+Wednesday, September 27th, 2017, 4:33:16 PM User: Get started
+Wednesday, September 27th, 2017, 4:33:17 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 4:33:23 PM User: Non Employee
+Wednesday, September 27th, 2017, 4:33:24 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 4:33:27 PM User: Job Seeker
+Wednesday, September 27th, 2017, 4:33:29 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 4:33:36 PM User: Yes
+Wednesday, September 27th, 2017, 4:33:36 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 4:33:41 PM User: Start
+Wednesday, September 27th, 2017, 4:33:42 PM CloBot: Unchecked exceptions are checked at compile-time rather they are checked at runtime
+Wednesday, September 27th, 2017, 4:33:45 PM User: 1
+Wednesday, September 27th, 2017, 4:33:46 PM CloBot: Which of the following class creates mutable objects ?
+Wednesday, September 27th, 2017, 4:33:50 PM User: 2
+Wednesday, September 27th, 2017, 4:33:51 PM CloBot: Choose best option that describes Constructor
+Wednesday, September 27th, 2017, 4:33:56 PM User: 3
+Wednesday, September 27th, 2017, 4:33:57 PM CloBot: What state does a thread enter when it terminates its processing?
+Wednesday, September 27th, 2017, 4:34:04 PM User: 4
+Wednesday, September 27th, 2017, 4:34:05 PM CloBot:   Which method is used to perform DML statements in JDBC?
+Wednesday, September 27th, 2017, 4:34:08 PM User: 3
+Wednesday, September 27th, 2017, 4:34:09 PM CloBot: Program which executes applet is known as
+Wednesday, September 27th, 2017, 4:34:14 PM User: 1
+Wednesday, September 27th, 2017, 4:34:15 PM CloBot:  Which collection class associates values with keys, and orders the keys according to their natural order?
+Wednesday, September 27th, 2017, 4:34:21 PM User: 3
+Wednesday, September 27th, 2017, 4:34:22 PM CloBot: Which of the following can be marked static ?
+Wednesday, September 27th, 2017, 4:34:27 PM User: 1
+Wednesday, September 27th, 2017, 4:34:31 PM CloBot: Which of the following was not introduced with Java 5 ?
+Wednesday, September 27th, 2017, 4:34:35 PM User: 3
+Wednesday, September 27th, 2017, 4:34:36 PM CloBot:  Which of the following below are valid isolation levels in J2EE?
+Wednesday, September 27th, 2017, 4:34:40 PM User: 1
+Wednesday, September 27th, 2017, 4:34:40 PM CloBot: Collections.sort can only be performed on ..
+Wednesday, September 27th, 2017, 4:34:45 PM User: 2
+Wednesday, September 27th, 2017, 4:34:45 PM CloBot: Which interface does java.util.Hashtable implement ?
+Wednesday, September 27th, 2017, 4:34:50 PM User: 3
+Wednesday, September 27th, 2017, 4:34:51 PM CloBot: Thank you. Your have gotten 4 out of 12 questions correct. Your details will be mailed to our HR department and they will contact you soon
+Wednesday, September 27th, 2017, 4:49:23 PM User: Get started
+Wednesday, September 27th, 2017, 4:49:31 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 4:49:38 PM User: Non Employee
+Wednesday, September 27th, 2017, 4:49:39 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 4:49:45 PM User: Job Seeker
+Wednesday, September 27th, 2017, 4:49:47 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 4:49:51 PM User: Yes
+Wednesday, September 27th, 2017, 4:49:53 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 4:49:57 PM User: Start
+Wednesday, September 27th, 2017, 4:49:59 PM CloBot:  Runnable is
+Wednesday, September 27th, 2017, 4:50:03 PM User: 1
+Wednesday, September 27th, 2017, 4:50:05 PM CloBot: Which keyword is used to provide explicit access of a code block to single thread ?
+Wednesday, September 27th, 2017, 4:50:09 PM User: 1
+Wednesday, September 27th, 2017, 4:50:10 PM CloBot:  Which of the following below are valid isolation levels in J2EE?
+Wednesday, September 27th, 2017, 4:50:14 PM User: 1
+Wednesday, September 27th, 2017, 4:50:15 PM CloBot: Which class cannot be subclassed (or extended) in java?
+Wednesday, September 27th, 2017, 4:50:20 PM User: 1
+Wednesday, September 27th, 2017, 4:50:24 PM CloBot: Which of the following doesn't extend Collection interface ?
+Wednesday, September 27th, 2017, 4:50:27 PM User: 1
+Wednesday, September 27th, 2017, 4:50:31 PM CloBot: Java beans have no types
+Wednesday, September 27th, 2017, 4:50:34 PM User: 1
+Wednesday, September 27th, 2017, 4:50:37 PM CloBot: Which keyword is used to inherit class?
+Wednesday, September 27th, 2017, 4:50:41 PM User: 1
+Wednesday, September 27th, 2017, 4:50:42 PM CloBot: Why we use array as a parameter of main method?
+Wednesday, September 27th, 2017, 4:50:46 PM User: 1
+Wednesday, September 27th, 2017, 4:50:50 PM CloBot: Checked exception needs to be ... 
+Wednesday, September 27th, 2017, 4:50:53 PM User: 1
+Wednesday, September 27th, 2017, 4:50:54 PM CloBot: Which mechanism is used when a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed? 
+Wednesday, September 27th, 2017, 4:50:58 PM User: 1
+Wednesday, September 27th, 2017, 4:50:59 PM CloBot: Which of the following exception is thrown when we try to access element which is beyond the size ?
+Wednesday, September 27th, 2017, 4:51:04 PM User: 2
+Wednesday, September 27th, 2017, 4:51:04 PM CloBot: A constructor that is automatically generated in the absence of explicit constructors called?
+Wednesday, September 27th, 2017, 4:51:09 PM User: 2
+Wednesday, September 27th, 2017, 4:51:10 PM CloBot: Thank you. Your have gotten 3 out of 12 questions correct. Your details will be mailed to our HR department and they will contact you soon
+Wednesday, September 27th, 2017, 4:54:46 PM User: Get started
+Wednesday, September 27th, 2017, 4:54:49 PM CloBot: Hello, Siddharth I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, September 27th, 2017, 4:54:52 PM User: Non Employee
+Wednesday, September 27th, 2017, 4:54:53 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, September 27th, 2017, 4:55:26 PM User: Job Seeker
+Wednesday, September 27th, 2017, 4:55:26 PM CloBot: We have a screening test with questions related to Java. A high enough score will help move your resume forward faster. Do you want to begin?
+Wednesday, September 27th, 2017, 4:55:32 PM User: Yes
+Wednesday, September 27th, 2017, 4:55:33 PM CloBot: You will be presented 12 questions. Your answers will be timed. Type 'Start' to start
+Wednesday, September 27th, 2017, 4:55:40 PM User: Start
+Wednesday, September 27th, 2017, 4:55:41 PM CloBot:  Runnable is
+Wednesday, September 27th, 2017, 4:55:46 PM User: 1
+Wednesday, September 27th, 2017, 4:55:47 PM CloBot: Which keyword is used to provide explicit access of a code block to single thread ?
+Wednesday, September 27th, 2017, 4:55:53 PM User: 2
+Wednesday, September 27th, 2017, 4:55:53 PM CloBot:  Which of the following below are valid isolation levels in J2EE?
+Wednesday, September 27th, 2017, 4:56:01 PM User: 2
+Wednesday, September 27th, 2017, 4:56:02 PM CloBot: Which class cannot be subclassed (or extended) in java?
+Wednesday, September 27th, 2017, 4:56:07 PM User: 2
+Wednesday, September 27th, 2017, 4:56:07 PM CloBot: Which of the following doesn't extend Collection interface ?
+Wednesday, September 27th, 2017, 4:56:16 PM User: 1
+Wednesday, September 27th, 2017, 4:56:17 PM CloBot: Java beans have no types
+Wednesday, September 27th, 2017, 4:56:22 PM User: 2
+Wednesday, September 27th, 2017, 4:56:23 PM CloBot: Which keyword is used to inherit class?
+Wednesday, September 27th, 2017, 4:56:32 PM User: 3
+Wednesday, September 27th, 2017, 4:56:33 PM CloBot: Why we use array as a parameter of main method?
+Wednesday, September 27th, 2017, 4:56:40 PM User: 3
+Wednesday, September 27th, 2017, 4:56:41 PM CloBot: Checked exception needs to be ... 
+Wednesday, September 27th, 2017, 4:56:46 PM User: 3
+Wednesday, September 27th, 2017, 4:56:47 PM CloBot: Which mechanism is used when a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed? 
+Wednesday, September 27th, 2017, 4:56:52 PM User: 3
+Wednesday, September 27th, 2017, 4:56:53 PM CloBot: Which of the following exception is thrown when we try to access element which is beyond the size ?
+Wednesday, September 27th, 2017, 4:57:12 PM User: 3
+Wednesday, September 27th, 2017, 4:57:13 PM CloBot: A constructor that is automatically generated in the absence of explicit constructors called?
+Wednesday, September 27th, 2017, 4:57:29 PM User: 3
+Wednesday, September 27th, 2017, 4:57:30 PM CloBot: Thank you. You have gotten 1 out of 12 questions correct. Your details will be mailed to our HR department and they will contact you soon
